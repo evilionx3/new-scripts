@@ -1,3 +1,6 @@
+-- i never obfuscate my code, considering the fact i literally paste so much from the dev forum
+-- all this does is just give you a tool that lets you play a animation when you click the tool
+-- you should use a accessory for it to look right
 local player = game.Players.LocalPlayer
 local character = player.Character or player.CharacterAdded:Wait()
 local humanoid = character:WaitForChild("Humanoid")
